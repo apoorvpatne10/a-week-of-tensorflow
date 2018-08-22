@@ -26,6 +26,7 @@ After the pixels are flattened, the network consists of a sequence of two tf.ker
 ## Compiling the model
 This includes addition of a loss function and an optimizer.
 
+
 # Training, evaluation and testing
 * At a *high-level*, training a network involves the following steps: 
   * Feeding the training images and labels as training data to the model
