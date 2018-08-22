@@ -34,7 +34,7 @@ This includes addition of a loss function and an optimizer.
   * Testing of model on a test set
  
  # Making predictions
- Following is a plot of several images with their predictions. Correct prediction labels are green ![#f03c15](https://placehold.it/15/f03c15/000000?text=+) and incorrect prediction labels are red ![#c5f015](https://placehold.it/15/c5f015/000000?text=+).
+ Following is a plot of several images with their predictions. Correct prediction labels are green ![#c5f015](https://placehold.it/15/c5f015/000000?text=+) and incorrect prediction labels are red ![#f03c15](https://placehold.it/15/f03c15/000000?text=+).
  
 ![Plot_predictions](https://i.imgur.com/s5XkSPF.png)
  
